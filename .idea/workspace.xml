@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91321992-df69-4ca3-8fb3-3cc92f7544dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dementorship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/landing-test/src/pages/test.tsx" afterDir="false" />
+    <list default="true" id="91321992-df69-4ca3-8fb3-3cc92f7544dd" name="Changes" comment="master: init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/src/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/src/pages/test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-test/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +37,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/vladislavabrosimov/IdeaProjects/Dementorship/landing-test/public",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/vladislavabrosimov/IdeaProjects/Dementorship/landing-test/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Users/vladislavabrosimov/IdeaProjects/Dementorship/landing/node_modules/typescript/lib"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/landing-test/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684517972239</updated>
-      <workItem from="1684517973422" duration="2309000" />
+      <workItem from="1684517973422" duration="6073000" />
     </task>
+    <task id="LOCAL-00001" summary="master: init">
+      <created>1684757826210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684757826210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master: init" />
+    <option name="LAST_COMMIT_MESSAGE" value="master: init" />
   </component>
 </project>
